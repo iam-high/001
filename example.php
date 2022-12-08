@@ -624,7 +624,7 @@
         </div>
     </div>
     <!-- client section - end -->
-jj
+    
     <!-- cta - start -->
     <div class="cta">
         <div class="cta-wrapper position-relative bg-main">
