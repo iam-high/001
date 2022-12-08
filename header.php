@@ -66,7 +66,7 @@
                     <div class="navigation-menu-menu--wrapper">
                         <ul class="menu">
                             <li class="menu-item menu-item-has-children">
-                                <a href="index-2.html">Home</a>
+                                <a href="index-2.html">new Home</a>
                                 <ul class="sub-menu">
                                     <li class="menu-item">
                                         <a href="index-2.html">Home 1</a>
