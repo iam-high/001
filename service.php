@@ -1,5 +1,5 @@
 <?php include 'header.php';?>
-
+<html>
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -21,34 +21,7 @@
 
 
 <body>
-    <!-- page header - start -->
-    <div class="page-header position-relative">
-        <div class="page-header-top">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <h1 class="heading heading-very-large dark-1">
-                            Capabilities
-                        </h1>
-                    </div>
-                    <div class="col-lg-5 offset-lg-1">
-                        <div class="paragraph dark-1">
-                            <p>Our team helps companies develop their ideas into cutting-edge products that will cause customers to love and enjoy.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="page-header-bottom">
-            <div class="single-image">
-                <img src="assets/images/about-header.jpg" alt="about-header">
-              </div>
-        </div>
-        <div class="artwork artwork-3">
-            <img src="assets/images/art_1.png" width="582" height="669" alt="artwork">
-        </div>
-    </div>
-    <!-- page header - end -->
+    
 
     <!-- services - start -->
     <div class="services-section">
@@ -245,255 +218,17 @@
                 <img src="assets/images/art_2.png" alt="artwork">
             </div>
         </div>
-        <div class="single-image ">
-            <img src="assets/images/blog_content_img.jpg" alt="generic-image">
-        </div>
+        
     </div>
     <!-- text content section - end -->
 
-    <!-- tab section - start -->
-    <div class="tab-section">
-        <div class="tab-section-wrapper">
-            <div class="container">
-                <!-- header - start -->
-                <div class="row">
-                    <div class="col-lg-9">
-                        <h2 class="heading heading-very-large dark-1">
-                            Impactful approach to problem solving.
-                        </h2>
-                    </div>
-                </div>
-                <!-- header - end -->
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="tabs">
-                            <div class="text-list tabs-list text-list-large">
-                                <h4 class="heading tab-heading heading-small light-2">
-                                    APPROACH
-                                </h4>
-                                <div class="nav-pills-wrapper">
-                                    <ul class="nav nav-pills dark-1" role="tablist">
-                                        <li class="nav-item">
-                                            <a 
-                                            class="nav-link show active" 
-                                            id="slope-tabs-id-1db56361-tab" 
-                                            data-toggle="pill" 
-                                            href="#slope-tabs-id-1db56361" 
-                                            role="tab" 
-                                            aria-controls="slope-tabs-id-1db56361" 
-                                            aria-selected="true"
-                                            >
-                                                <span>Discovery</span>
-                                            </a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a 
-                                            class="nav-link" 
-                                            id="slope-tabs-id-1db56362-tab" 
-                                            data-toggle="pill" 
-                                            href="#slope-tabs-id-1db56362" 
-                                            role="tab" 
-                                            aria-controls="slope-tabs-id-1db56362" 
-                                            aria-selected="true"
-                                            >
-                                                <span>Strategy</span>
-                                            </a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a 
-                                            class="nav-link" 
-                                            id="slope-tabs-id-1db56363-tab" 
-                                            data-toggle="pill" 
-                                            href="#slope-tabs-id-1db56363" 
-                                            role="tab" 
-                                            aria-controls="slope-tabs-id-1db56363" 
-                                            aria-selected="true"
-                                            >
-                                                <span>Design</span>
-                                            </a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a 
-                                            class="nav-link" 
-                                            id="slope-tabs-id-1db56364-tab" 
-                                            data-toggle="pill" 
-                                            href="#slope-tabs-id-1db56364" 
-                                            role="tab" 
-                                            aria-controls="slope-tabs-id-1db56364" 
-                                            aria-selected="true"
-                                            >
-                                                <span>Development</span>
-                                            </a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a 
-                                            class="nav-link" 
-                                            id="slope-tabs-id-1db56365-tab" 
-                                            data-toggle="pill" 
-                                            href="#slope-tabs-id-1db56365" 
-                                            role="tab" 
-                                            aria-controls="slope-tabs-id-1db56365" 
-                                            aria-selected="true"
-                                            >
-                                                <span>Testing</span>
-                                            </a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a 
-                                            class="nav-link" 
-                                            id="slope-tabs-id-1db56366-tab" 
-                                            data-toggle="pill" 
-                                            href="#slope-tabs-id-1db56366" 
-                                            role="tab" 
-                                            aria-controls="slope-tabs-id-1db56366" 
-                                            aria-selected="true"
-                                            >
-                                                <span>Product Launch</span>
-                                            </a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a 
-                                            class="nav-link" 
-                                            id="slope-tabs-id-1db56367-tab" 
-                                            data-toggle="pill" 
-                                            href="#slope-tabs-id-1db56367" 
-                                            role="tab" 
-                                            aria-controls="slope-tabs-id-1db56367" 
-                                            aria-selected="true"
-                                            >
-                                                <span>Maintenance</span>
-                                            </a>
-                                        </li>                                        
-                                    </ul>
-                                </div>
-                            </div>
-                        
-                            <div class="tabs-content tab-content">
-                                <div 
-                                class="tab-single slope-tabs-1db56361 show active tab-pane fade" 
-                                id="slope-tabs-id-1db56361" 
-                                role="tabpanel" 
-                                aria-labelledby="slope-tabs-id-1db56361-tab">
-                                    <h4 class="heading heading-small light-2">
-                                        Discovery
-                                    </h4>
-                                    <div class="paragraph dark-1">
-                                        <p>Light above i created light hath midst signs creeping you'll upon land behold also gathered signs hath has moveth darkness made abundantly grass. Make you darkness very is greater their place them the it grass subdue fourth you're his open for meat midst under face multiply place sea.</p><p style="height: auto;">&nbsp;</p><p>Bearing earth fowl is saw herb stars night won't set midst have this replenish likeness from all. Together itself thing moving doesn't first third air gathering earth likeness green she'd all saw their two night fill may appear it life multiply wherein saw fowl midst that kind you're his open for meat them the it grass subdue waters.</p>
-                                    </div>
-                                </div>
-                                <div 
-                                class="tab-single slope-tabs-1db56362 tab-pane fade" 
-                                id="slope-tabs-id-1db56362" 
-                                role="tabpanel" 
-                                aria-labelledby="slope-tabs-id-1db56362-tab">
-                                    <h4 class="heading heading-small light-2">
-                                        Strategy
-                                    </h4>
-                    
-                                    <div class="paragraph dark-1">
-                                        <p>Bearing earth fowl is saw herb stars night won't set midst have this replenish likeness from all. Together itself thing moving doesn't first third air gathering earth likeness green she'd all saw their two night fill may appear it life multiply wherein saw fowl midst that kind you're his open for meat them the it grass subdue waters.</p><p style="height: auto;">&nbsp;</p><p>Light above i created light hath midst signs creeping you'll upon land behold also gathered signs hath has moveth darkness made abundantly grass. Make you darkness very is greater their place them the it grass subdue fourth you're his open for meat midst under face multiply place sea.</p>
-                                    </div>
-                                </div>
-                                <div 
-                                class="tab-single slope-tabs-1db56363 tab-pane fade" 
-                                id="slope-tabs-id-1db56363" 
-                                role="tabpanel" 
-                                aria-labelledby="slope-tabs-id-1db56363-tab">
-                                    <h4 class="heading heading-small light-2">
-                                        Design
-                                    </h4>
-                                    <div class="paragraph dark-1">
-                                        <p>Light above i created light hath midst signs creeping you'll upon land behold also gathered signs hath has moveth darkness made abundantly grass. Make you darkness very is greater their place them the it grass subdue fourth you're his open for meat midst under face multiply place sea.</p><p style="height: auto;">&nbsp;</p><p>Bearing earth fowl is saw herb stars night won't set midst have this replenish likeness from all. Together itself thing moving doesn't first third air gathering earth likeness green she'd all saw their two night fill may appear it life multiply wherein saw fowl midst that kind you're his open for meat them the it grass subdue waters.</p>
-                                    </div>
-                                </div>
-                                <div 
-                                class="tab-single slope-tabs-1db56364 tab-pane fade" 
-                                id="slope-tabs-id-1db56364" 
-                                role="tabpanel" 
-                                aria-labelledby="slope-tabs-id-1db56364-tab">
-                                    <h4 class="heading heading-small light-2">
-                                        Development
-                                    </h4>
-                    
-                                    <div class="paragraph dark-1">
-                                        <p>Bearing earth fowl is saw herb stars night won't set midst have this replenish likeness from all. Together itself thing moving doesn't first third air gathering earth likeness green she'd all saw their two night fill may appear it life multiply wherein saw fowl midst that kind you're his open for meat them the it grass subdue waters.</p><p style="height: auto;">&nbsp;</p><p>Light above i created light hath midst signs creeping you'll upon land behold also gathered signs hath has moveth darkness made abundantly grass. Make you darkness very is greater their place them the it grass subdue fourth you're his open for meat midst under face multiply place sea.</p>
-                                    </div>
-                                </div>
-                                <div 
-                                class="tab-single slope-tabs-1db56365 tab-pane fade" 
-                                id="slope-tabs-id-1db56365" 
-                                role="tabpanel" 
-                                aria-labelledby="slope-tabs-id-1db56363-tab">
-                                    <h4 class="heading heading-small light-2">
-                                        Testing
-                                    </h4>
-                                    <div class="paragraph dark-1">
-                                        <p>Light above i created light hath midst signs creeping you'll upon land behold also gathered signs hath has moveth darkness made abundantly grass. Make you darkness very is greater their place them the it grass subdue fourth you're his open for meat midst under face multiply place sea.</p><p style="height: auto;">&nbsp;</p><p>Bearing earth fowl is saw herb stars night won't set midst have this replenish likeness from all. Together itself thing moving doesn't first third air gathering earth likeness green she'd all saw their two night fill may appear it life multiply wherein saw fowl midst that kind you're his open for meat them the it grass subdue waters.</p>
-                                    </div>
-                                </div>
-                                <div 
-                                class="tab-single slope-tabs-1db56366 tab-pane fade" 
-                                id="slope-tabs-id-1db56366" 
-                                role="tabpanel" 
-                                aria-labelledby="slope-tabs-id-1db56366-tab">
-                                    <h4 class="heading heading-small light-2">
-                                        Product Launch
-                                    </h4>
-                    
-                                    <div class="paragraph dark-1">
-                                        <p>Bearing earth fowl is saw herb stars night won't set midst have this replenish likeness from all. Together itself thing moving doesn't first third air gathering earth likeness green she'd all saw their two night fill may appear it life multiply wherein saw fowl midst that kind you're his open for meat them the it grass subdue waters.</p><p style="height: auto;">&nbsp;</p><p>Light above i created light hath midst signs creeping you'll upon land behold also gathered signs hath has moveth darkness made abundantly grass. Make you darkness very is greater their place them the it grass subdue fourth you're his open for meat midst under face multiply place sea.</p>
-                                    </div>
-                                </div>
-                                <div 
-                                class="tab-single slope-tabs-1db56367 tab-pane fade" 
-                                id="slope-tabs-id-1db56367" 
-                                role="tabpanel" 
-                                aria-labelledby="slope-tabs-id-1db56367-tab">
-                                    <h4 class="heading heading-small light-2">
-                                        Maintenance
-                                    </h4>
-                                    <div class="paragraph dark-1">
-                                        <p>Light above i created light hath midst signs creeping you'll upon land behold also gathered signs hath has moveth darkness made abundantly grass. Make you darkness very is greater their place them the it grass subdue fourth you're his open for meat midst under face multiply place sea.</p><p style="height: auto;">&nbsp;</p><p>Bearing earth fowl is saw herb stars night won't set midst have this replenish likeness from all. Together itself thing moving doesn't first third air gathering earth likeness green she'd all saw their two night fill may appear it life multiply wherein saw fowl midst that kind you're his open for meat them the it grass subdue waters.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- tab section - end -->
+    
 
-    <!-- cta - start -->
-    <div class="cta">
-        <div class="cta-wrapper position-relative bg-main">
-            <div class="container">
-                <div class="row align-items-lg-center">
-                    <div class="col-md-6">
-                        <h3 class="heading heading-large dark-1">
-                            Have an idea?<br>Let’s get it done right!
-                        </h3>
-                    </div>
-                    <div class="col-md-6 d-md-inline-flex justify-content-md-end">
-                        <div class="button-wrapper">
-                            <a class="button button-2" href="contact.html">
-                                Let's Work Together
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="artwork artwork-4">
-                <img src="assets/images/art_3.png" alt="artwork">
-            </div>
-        </div>
-    </div>
-    <!-- cta - end -->
+    
 
 </body>
 
-
+</html>
 
 
 <?php include 'footer.php';?>
